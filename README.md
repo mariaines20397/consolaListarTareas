@@ -1,3 +1,7 @@
+# Autora:
+
+Toledo, María Inés
+
 # Sobre el proyecto:
 
 Sistema que tiene por objetivo realizar un CRUD de tareas. El proyecto se muestra por consola.
